@@ -3,7 +3,8 @@
     "allow": [
       "Bash(uv venv *)",
       "Bash(uv python *)",
-      "Bash(uv run *)"
+      "Bash(uv run *)",
+      "WebSearch"
     ]
   }
 }
